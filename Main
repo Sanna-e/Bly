@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="main">
+      <h1 id="title"> Nellie Bly </h1>
+      <div id="img-div">
+        <img src="https://www.nps.gov/common/uploads/people/nri/20191204/people/20E51C19-B37A-2240-262A6216BD494422/20E51C19-B37A-2240-262A6216BD494422.jpg" id="image" alt="Photo of Nellie Bly">
+        <div id="img-caption"><p>A colorized photo of Nellie Bly. <br> 
+        <small>Photo not mine.</small></p>
+        </div>
+        </div>
+      <div id="tribute-info"> Nellie Bly, born Elizabeth Jane Cochram on May 5th, 1964, was a record-setting writer, most known for posing as a mental patient on Blackwell's Island. <br> As a young girl, Cochram was often called Pinky, due to her preference for the color. Her father was a landowner and founder of her hometown, Cochram Mills. <br> When she was 6, her father died suddenly, leaving no will behind detailing his estate. <br> As Elizabeth grew older, she forsook her old nickname and added an "e" to her surname in an effort to appear more sophisticated. In 1880, she enrolled in the Indiana Normal School to study to become a teacher, but her finances and fate had different plans. After a year, she was forced to drop out due to lack of funds. She moved with her mother to Pittsburgh, where they ran a boarding house. <br> About this time, she read an article written by Erasmus Wilson which detailed his opinion on a woman's place in the world. He titled working women, "Monstrosities'". Elizabeth wrote a heated response and submitted it, thereby catching the eye of the paper's managing editor, a man named George Madden. He offered her a position which paid five dollars per hour. Taking on a name from the then-popular Stephan Foster song, she called herself Nellie Bly. She focused on injustices and women's rights, and became renowned for going undercover to expose corrupt systems. Slowly, her work was moved solely to women's magazines. Feeling like she was losing purpose, Elizabeth relocated. <br> She began working for the New York World, where one of her first assignments became one of her most famous; the expose of Blackwell's Island, a mental institution. She became mildly famous due to that piece, detailing how she posed as a mental patient to be admitted to Blackwell's Island, and the mistreatment she suffered at the hands of the medical professionals there. <br> The fame and renown she gained not only assisted her career, it proved to many that women could not only be successful journalists, but that they could achieve the higher standard. <br> In 1889, Bly, inspired by a fictional book, attempted to go around the world in eighty days. She created a world record, coming back to where she first left in 72 days. <br> With her place in history established, Bly moved on, becoming a novelist. Later, she met and married Robert Seaman, a millionaire manufacturer. Bly was 37. Robert was 71, and failing in health. Less than ten years after their marriage, Seaman died. Bly succeeded him as the head of his business, but was hopeless at finances. She squandered the business money on its employees, giving them luxuries that were unheard of at the time, such as private gyms and health benefits. Due to this, and a factory manager embezzling funds, the business went into bankruptcy, but not before Bly received patents for a milk can and stacking garbage cans. <br> Suffering from bankruptcy, Bly went back to reporting. She was one of the first and only women to go to a war zone during the 1st World War, but was mistaken for a British spy and arrested. In 1913, she began detailing the experiences of Suffragists, and predicted that it would be 1920 before women were given the right to vote. <br> She was right. In 1922, Bly died of pneumonia in St. Mark's hospital, in New York City. She was 57 years old. </div>
+      <footer> 
+      <a href="https://en.m.wikipedia.org/wiki/Nellie_Bly" id="tribute-link" target="_blank"><small>Source Credits.</small></a>
+      <a href="https://www.nps.gov/people/nellie-bly.htm" value="tribute-link" target="blank"><small>Picture credits.</small></a>
+      </footer>
+      <script src="script.js"></script>
+      </main>
+  </body>
+</html>
