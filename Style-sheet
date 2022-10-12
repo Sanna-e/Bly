@@ -1,0 +1,17 @@
+body{
+  padding: 25px;
+  background-color: #899bae;
+}
+.title {
+    text-align: center;
+}
+div{
+padding: 10px;
+background-color: #bec2cb;
+}
+img{
+max-height: 50%;
+max-width: 100%;
+align: center;
+display: block;
+}
